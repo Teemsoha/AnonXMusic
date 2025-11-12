@@ -7,12 +7,12 @@
     "env": {
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "",
+            "value": "23308690",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "",
+            "value": "0a64b7fb353afea42c8847bd5ae5c744",
             "required": true
         },
         "BOT_TOKEN": {
@@ -22,17 +22,17 @@
         },
         "MONGO_URL": {
             "description": "Get a mongodb url from https://cloud.mongodb.com.",
-            "value": "",
+            "value": "mongodb+srv://miramusict:miramusict@cluster0.o7jaw5o.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "LOGGER_ID": {
             "description": "Your log group ID, add your bot there and promote as an admin.",
-            "value": "",
+            "value": "-100191660957",
             "required": true
         },
         "OWNER_ID": {
             "description": "The user id of user whom you would like to add as OWNER.",
-            "value": "",
+            "value": "6051346327",
             "required": true
         },
         "SESSION": {
