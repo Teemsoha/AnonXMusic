@@ -28,7 +28,7 @@ async def playlist_to_queue(
     return text
 
 @app.on_message(
-    filters.command(["play", "playforce", "vplay", "vplayforce"])
+    filters.command(["play", "تشغيل", "شغل", "vplayforce"],"")
     & filters.group
     & ~app.bl_users
 )
